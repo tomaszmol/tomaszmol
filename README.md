@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **tmollegro@gmail.com**
 
+- 🔍 Check out pinned repositories down below
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tomaszmol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tomaszmol/" height="30" width="40" /></a>
