@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomasz Mol</h1>
 <h3 align="center">Computer Science Student @ AGH University</h3>
 
-- 🌱 I’m currently learning **Erlang, Elixir, C, Rust**
+- 🌱 I’m currently learning **.NET, C#, Erlang, Elixir, C, Rust**
 
 - 📫 How to reach me **tmollegro@gmail.com**
 
