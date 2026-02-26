@@ -2,8 +2,6 @@
 <h4 align="center"> Junior Java Developer</h4>
 <h4 align="center"> Computer Science Student @ AGH University</h4>
 
-- 🌱 I’m currently learning: **.NET, C#, Erlang, Elixir, C, Rust**
-
 - 📫 How to reach me **tmollegro@gmail.com**
 
 - 🔍 Check out pinned repositories down below
