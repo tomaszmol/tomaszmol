@@ -6,7 +6,7 @@
 
 - 🔍 Check out pinned repositories down below
 
-- 🚀 **Must See:** Check out my latest architectural project: [**FleetLedger**](https://github.com/tomaszmol/FleetLedger) – a Modular Monolith fleet management system designed with DDD, CQRS, and Hexagonal Architecture.
+- 🚀 **Must See:** Check out my latest architectural project: [**Fleet Ledger**](https://github.com/tomaszmol/fleet-ledger) – a Modular Monolith fleet management system designed with DDD, CQRS, and Hexagonal Architecture.
 
 <h3 align="left">Connect with me:</h3>
 
